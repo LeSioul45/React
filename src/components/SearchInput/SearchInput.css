@@ -1,0 +1,9 @@
+.SearchInput input.query,
+.SearchInput button.submit {
+  font-size: 24px;
+  padding: 8px 12px;
+  border: 2px solid #333;
+  border-radius: 3px;
+  margin-left: 8px;
+  outline: none;
+}
